@@ -19,4 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thasizzdev&show_icons=true&locale=en&layout=compact" alt="thasizzdev" /></p>
 
+## What i'm doing rn
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1201986033206702140)](https://discord.com/users/1201986033206702140)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thasizzdev&show_icons=true&locale=en" alt="thasizzdev" /></p>
