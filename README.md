@@ -94,17 +94,17 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thasizzdev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thasizzdev&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/></a>
+    </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasizzdev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" alt="Top Languages" />
-</p>
+  <p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasizzdev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a> </p>
+  <br/>
 
----
-<br>
 
-### 🖥️ What I'm doing right now
+## What i'm doing now
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1214592818903916635)](https://discord.com/users/1214592818903916635)
